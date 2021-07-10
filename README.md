@@ -1,4 +1,5 @@
-For customers:
+**For customers:**
+---
 -	Home page: category menu, features products
 -	View products by category
 -	View product details
@@ -6,7 +7,9 @@ For customers:
 -	Register
 -	Login/Logout
 -	Optional (shopping cart, ordering)
-For admin:
+
+**For admin:**
+---
 -	Login/logout
 -	Manage product categories (Name, Description)
 -	Manage products (Name, Category, Description, Price, Images, CreatedDate, UpdatedDate)
